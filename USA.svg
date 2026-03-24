@@ -54,7 +54,7 @@
    * #New_Mexico path {fill:#34A853}
    *
    */
-  path {fill:#FFFFFF;stroke:#000000;stroke-width:.17829;}
+  path {fill:#FFFFFF;stroke:#000;stroke-width:.17829;}
   #borders {fill:none;stroke:#555555;stroke-width:.89143;}
   #separatorAK-HI {fill:none;stroke:#AAAAAA;stroke-width:2.3177309;}
  </style>

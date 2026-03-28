@@ -3,9 +3,9 @@
   <title>Blank map of the United States, territories not included</title>
 <defs>
 <style type="text/css">
-.state {fill:white; stroke:black; stroke-width:2}   /* default color for all states not specified below */
+.state {fill:white; stroke:black; stroke-width:1.5}   /* default color for all states not specified below */
 .dccircle {display:yes}                             /* set display to yes to show the circle for the District of Columbia, or none to hide it */
-.separator1 {stroke:black; stroke-width:2}          /* color and width of lines around Alaska and Hawaii */
+.separator1 {stroke:black; stroke-width:1.5}          /* color and width of lines around Alaska and Hawaii */
 
 /* Individual states can be colored as follows:
 .ks,.mt,.pa {fill:#0000FF}

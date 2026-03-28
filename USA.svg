@@ -13,7 +13,20 @@
 In this example, Kansas, Montana and Pennsylvania are colored blue, and California and Delaware are colored red.
 Place this code in the empty space below. */
 
-.tn,.ky,.fl,.oh,.tx,.ga,.ny,.ms,.pa,.mi,.mo,.al,.nj,.ca,.il,.va,.ar,.ma,.sc,.ct,.ok,.la,.wi,.ia,.wy,.id,.nv,.mn,.in {fill:#ECE83A}
+/* 15+ HITS - PMS 1805C (RED) */
+  .tn,.ky,.fl {fill:#AF272F}
+
+/* 10-14 HITS - PMS 152C (ORANGE) */
+  .oh {fill:#E57200}
+
+/* 6-9 HITS - PMS 122C (YELLOW) */
+  .tx,.ga,.ny {fill:#FED141}
+
+/* 3-5 HITS - PMS 342C (GREEN) */
+  .ms,.pa,.mi,.mo,.al,.nj,.ca,.il,.va {fill:#006747}
+
+/* 1-2 HITS - PMS 294C (BLUE) */
+  .ar,.ma,.sc,.ct,.ok,.la,.wi,.ia,.wy,.id,.nv,.mn,.in {fill:#002F6C}
 
 </style>
 </defs>

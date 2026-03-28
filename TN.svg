@@ -119,25 +119,25 @@
   <use xlink:href="#Henry" fill="#006747" stroke="black" stroke-linejoin="round" stroke-width="125" />
 
 /* 1-2 HITS - PMS 294C (BLUE) */
-  <use xlink:href="#Cheatham" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Williamson" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Maury" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Sumner" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Humphreys" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Roane" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Benton" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Dickson" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Wilson" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Bedford" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Franklin" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Hardeman" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Marshall" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Robertson" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Unicoi" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Shelby" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Wayne" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Warren" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Anderson" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
-  <use xlink:href="#Lawrence" fill="#ECE83A" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Cheatham" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Williamson" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Maury" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Sumner" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Humphreys" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Roane" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Benton" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Dickson" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Wilson" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Bedford" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Franklin" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Hardeman" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Marshall" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Robertson" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Unicoi" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Shelby" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Wayne" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Warren" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Anderson" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
+  <use xlink:href="#Lawrence" fill="#002F6C" stroke="black" stroke-linejoin="round" stroke-width="125" />
 
 </svg>

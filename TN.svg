@@ -11,7 +11,7 @@
   .Davidson {fill:#E57200}
 
 /* 6-9 HITS - PMS 122C (YELLOW) */
-  .Hickman {fill:#FED141}
+  .Blank {fill:#FED141}
 
 /* 3-5 HITS - PMS 342C (GREEN) */
   .Knox,.Stewart,.Smith,.Rutherford,.Henry {fill:#006747}

@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="3907.15" height="958.00" viewBox="-33259,-9066 78143,19160">
 <defs>
 <style type="text/css">
-.county {fill:white; stroke:black; stroke-width:126.2}   /* default color for all states not specified below */
+.county {fill:white; stroke:black; stroke-width:150}   /* default color for all states not specified below */
 
 /* 15+ HITS - PMS 1805C (RED) */
   .Montgomery,.Houston {fill:#AF272F}
